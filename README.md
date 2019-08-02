@@ -10,3 +10,5 @@ It includes: the basic algorithm, data structure and advanced algorithm.
 .babelrc to config es6
 .eslintrc.js to config written format
 
+In this project, all the source code put in 'code' directory, and all test code put in 'test' directory.
+
