@@ -12,3 +12,6 @@ It includes: the basic algorithm, data structure and advanced algorithm.
 
 In this project, all the source code put in 'code' directory, and all test code put in 'test' directory.
 
+#### String
+
+Here, I list two problems using RegExp methods.
